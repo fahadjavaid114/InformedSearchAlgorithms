@@ -1,16 +1,9 @@
 # InformedSearchAlgorithms
 
 ## How to Run
-1. Install Python 3.x
+1. Install Python 3.x..
 2. Install Pygame: `pip install pygame`
-3. Run: `python pathfinder.py`
-
-## How to Run
-1. Download or clone this repository.
-2. Open a terminal in the folder containing the code.
-3. Run the application using:
-
-python pathfinder.py
+3. Run: `23F0683_AI_Ass2_Q6.py`
 
 ## Controls
 1. Click on the right panel to switch algorithms (GBFS or A*) and heuristics (Manhattan or Euclidean).
